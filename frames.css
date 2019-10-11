@@ -1,0 +1,561 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 5600px;
+  }
+
+  .head1 {
+      color: #084482;
+      text-align: center;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 18px;
+      font-family: 'Open Sans', sans-serif;
+      position: absolute;
+      width: 456px;
+      height:34px;
+      left: 508px;
+      top: 3538px;
+      line-height: 34px;
+  }
+  .para1 {
+      font-size: 16px;
+      font-family: 'open sans', sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      position: absolute;
+      top: 3622px;
+      left: 329px;
+      height: 216px;
+      width: 465px;
+      line-height: 151.2%;
+
+  }
+  .para2 {
+    font-size: 16px;
+      font-family: 'open sans', sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      position: absolute;
+      top: 3624px;
+      left: 1011px;
+      height: 22px;
+      width: 131px;
+      line-height: 22px;
+      color: #00AEFF;
+
+  }
+  .para3{
+    font-size: 16px;
+    font-family: 'open sans', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    position: absolute;
+    top: 3658px;
+    left: 976px;
+    height: 22px;
+    width: 166px;
+    line-height: 22px;
+    color: #00AEFF;
+
+}
+.para4 {
+    font-size: 16px;
+      font-family: 'open sans', sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      position: absolute;
+      top: 3696px;
+      left: 935px;
+      height: 22px;
+      width: 207px;
+      line-height: 22px;
+      color: #00AEFF;
+}
+.para5 {
+    font-size: 16px;
+      font-family: 'open sans', sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      position: absolute;
+      top: 3735px;
+      left: 1000px;
+      height: 22px;
+      width: 142px;
+      line-height: 22px;
+      color: #00AEFF;
+}
+.para6 {
+    font-size: 16px;
+      font-family: 'open sans', sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      position: absolute;
+      top: 3774px;
+      left: 935px;
+      height: 22px;
+      width: 207px;
+      line-height: 22px;
+      color: #00AEFF;
+}
+.para7 {
+    font-size: 16px;
+      font-family: 'open sans', sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      position: absolute;
+      top: 3815px;
+      left: 912px;
+      height: 22px;
+      width: 230px;
+      line-height: 22px;
+      color: #00AEFF;
+}
+.ment1 {
+    width: 1488px;
+    height: 908px;
+    left: -11px;
+    top: 3522px;
+    bottom: 500px;
+    padding-bottom:20px;
+    
+}
+.ment2 {
+    position: absolute;
+    width: 1591px;
+    height: 392px;
+    left: -11px;
+    top: 3969px;
+    background: rgba(196, 196, 196, 0.1);
+    
+}
+.ment4 {
+    font-size: 20px;
+      font-family: 'open sans', sans-serif;
+      font-weight: bold;
+      font-style: normal;
+      position: absolute;
+      top: 50px;
+      left: 176px;
+      height: 34px;
+      width: 327px;
+      line-height: 34px;
+      color: #084482;
+}
+.ment5 {
+    font-size: 14px;
+      font-family: 'open sans', sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      position: absolute;
+      top: 100px;
+      left: 176px;
+      height: 80px;
+      width: 432px;
+      line-height: 151.2%;
+      color: #333333;
+}
+.img1 {
+    position: absolute;
+    width: 157px;
+    height: 157px;
+    left: 846px;
+    top: 60px;
+    border-radius: 50%;
+}
+.img2 {
+    position: absolute;
+    width: 157px;
+    height: 157px;
+    left: 1076px;
+    top: 60px;
+    border-radius: 50%;
+}
+
+.fig1 {
+    font-size: 16px;
+      font-family: 'open sans', sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      position: absolute;
+      top: 220px;
+      left: 53.8%;
+      right: 34.49%;
+      height: 27px;
+      line-height: 27px;
+      color: #32325D;
+}
+.fig2 {
+    font-size: 13px;
+      font-family: 'open sans', sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      position: absolute;
+      top: 255px;
+      left: 54%;
+      right: 32%;
+      height: 27px;
+      line-height: 22px;
+      color: #88989A;
+      letter-spacing: 0.12px;
+}
+.fig3 {
+    font-size: 16px;
+      font-family: 'open sans', sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      position: absolute;
+      top: 220px;
+      left: 69%;
+      right: 22.49%;
+      height: 27px;
+      line-height: 22px;
+      color: #32325D;
+}
+.fig4 {
+    font-size: 13px;
+      font-family: 'open sans', sans-serif;
+      font-weight: normal;
+      font-style: normal;
+      position: absolute;
+      top: 255px;
+      left: 69%;
+      right: 20%;
+      height: 27px;
+      line-height: 22px;
+      color: #88989A;
+      letter-spacing: 0.12px;
+}
+.ment6 {
+    position: absolute;
+    width: 150px;
+    left: 60.9%;
+    right: 23.71%;
+    top: 310px;
+    font-family: 'open sans';
+    font-weight: bold;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 19px;
+    color: #FFFFFF;
+    background-color: #00AEFF;
+    text-align: center;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+
+}
+.slack1 {
+    font-size: 23px;
+    font-family: 'open sans', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    position: absolute;
+    top: 450px;
+    left: 428px;
+    height: 34px;
+    width: 540px;
+    line-height: 34px;
+    color: #3C6B9C;
+}
+.img3 {
+    position: absolute;
+    top: 475px;
+    height: 35px;
+    width: 35px;
+    left: 899px;
+}
+.slack2 {
+    font-size: 16px;
+    font-family: 'open sans', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    position: absolute;
+    top: 4550px;
+    left: 300px;
+    height: 22px;
+    width: 207px;
+    line-height: 22px;
+    color: #00AEFF;   
+}
+.slack3 {
+    font-size: 16px;
+    font-family: 'open sans', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    position: absolute;
+    top: 4610px;
+    left: 300px;
+    height: 22px;
+    width: 207px;
+    line-height: 22px;
+    color: #00AEFF; 
+}
+.slack4 {
+    font-size: 16px;
+    font-family: 'open sans', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    position: absolute;
+    top: 4670px;
+    left: 300px;
+    height: 22px;
+    width: 207px;
+    line-height: 22px;
+    color: #00AEFF; 
+}
+.slack5 {
+    font-size: 16px;
+    font-family: 'open sans', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    position: absolute;
+    top: 4740px;
+    left: 300px;
+    height: 22px;
+    width: 207px;
+    line-height: 22px;
+    color: #00AEFF;
+}
+.slack6 {
+    font-size: 16px;
+    font-family: 'open sans', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    position: absolute;
+    top: 4810px;
+    left: 300px;
+    height: 22px;
+    width: 207px;
+    line-height: 22px;
+    color: #00AEFF;
+}
+.slack7 {
+    font-size: 16px;
+    font-family: 'open sans', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    position: absolute;
+    top: 4880px;
+    left: 300px;
+    height: 22px;
+    width: 207px;
+    line-height: 22px;
+    color: #00AEFF;
+}
+.slack8 {
+    font-size: 16px;
+    font-family: 'open sans', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    position: absolute;
+    top: 4950px;
+    left: 300px;
+    height: 22px;
+    width: 207px;
+    line-height: 22px;
+    color: #00AEFF;
+}
+.slack9 {
+    font-size: 16px;
+    font-family: 'open sans', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    position: absolute;
+    top: 5020px;
+    left: 300px;
+    height: 22px;
+    width: 207px;
+    line-height: 22px;
+    color: #00AEFF;
+}
+.line1 {
+    width: 862px;
+    top: 4587px;
+    position: absolute;
+    left: 300px;
+}
+.line2 {
+    width: 862px;
+    top: 4647px;
+    position: absolute;
+    left: 300px;
+}
+.line3 {
+    width: 862px;
+    top: 4707px;
+    position: absolute;
+    left: 300px;
+}
+.line4 {
+    width: 862px;
+    top: 4777px;
+    position: absolute;
+    left: 300px;
+}
+.line5 {
+    width: 862px;
+    top: 4847px;
+    position: absolute;
+    left: 300px;
+}
+.line6 {
+    width: 862px;
+    top: 4917px;
+    position: absolute;
+    left: 300px;
+}
+.line7 {
+    width: 862px;
+    top: 4987px;
+    position: absolute;
+    left: 300px;
+}
+.line8 {
+    width: 862px;
+    top: 5057px;
+    position: absolute;
+    left: 300px;
+}
+.sponsor1 {
+    font-size: 25px;
+    font-family: 'open sans', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    position: absolute;
+    top: 5120px;
+    left: 535px;
+    height: 34px;
+    width: 367px;
+    line-height: 34px;
+    color: #3C6B9C;
+}
+.img4 {
+    position: absolute;
+    left: 16.58%;
+    right: 72.07%;
+    top: 5250px;
+    bottom: 50px;
+    height: 40px;
+    width: 120px;
+}
+.img5 {
+    position: absolute;
+    left: 36.58%;
+    right: 72.07%;
+    top: 5250px;
+    bottom: 50px;
+    height: 40px;
+    width: 40px;
+}
+.img6 {
+    position: absolute;
+    left: 51.58%;
+    right: 72.07%;
+    top: 5250px;
+    bottom: 50px;
+    height: 40px;
+    width: 40px;
+}
+.img7 {
+    position: absolute;
+    left: 68.58%;
+    right: 72.07%;
+    top: 5250px;
+    bottom: 50px;
+    height: 40px;
+    width: 80px;
+}
+.img8 {
+    position: absolute;
+    left: 22.58%;
+    right: 73.42%;
+    top: 5350px;
+    bottom: 50px;
+    height: 20px;
+    width: 13px;
+}
+.img9 {
+    position: absolute;
+    left: 23.58%;
+    right: 73.42%;
+    top: 5356px;
+    bottom: 50px;
+    height: 15px;
+    width: 4px;
+}
+.img10 {
+    position: absolute;
+    left: 23.58%;
+    right: 73.42%;
+    top: 5350px;
+    bottom: 50px;
+    height: 5px;
+    width: 4px;
+}
+.img11 {
+    position: absolute;
+    left: 23.98%;
+    right: 73.42%;
+    top: 5356px;
+    bottom: 50px;
+    height: 22px;
+    width: 13.05px;
+}
+.img12 {
+    position: absolute;
+    left: 24.98%;
+    right: 73.42%;
+    top: 5356px;
+    bottom: 50px;
+    height: 13px;
+    width: 19px;
+}
+.img13 {
+    position: absolute;
+    left: 26.35%;
+    right: 73.42%;
+    top: 5356px;
+    bottom: 50px;
+    height: 14px;
+    width: 15px;
+}
+.img14 {
+    position: absolute;
+    left: 34.18%;
+    right: 73.42%;
+    top: 5334px;
+    bottom: 50px;
+    height: 42px;
+    width: 125px;
+}
+.img15 {
+    position: absolute;
+    left: 50.18%;
+    right: 73.42%;
+    top: 5334px;
+    bottom: 50px;
+    height: 42px;
+    width: 185px;
+}
+.sponsor2 {
+    background-color: #00AEFF;
+    color: white;
+    left: 42.29%;
+    right: 48.29%;
+    position: absolute;
+    top: 5420px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 12px;
+    line-height: 06px;
+    height: 28px;
+    font-family: 'open sans';
+    font-weight: bold;
+    font-style: normal;
+}
+
+@viewport {
+    width: device-width;
+    zoom: 1.0 ;
+  }
